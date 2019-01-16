@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=kielhunt1@gmail.com
+Enabled=true
+Parent=0385eb7900b4526f2fb35460210eda2fba59bace
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=kielhunt1@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=b8cdf88578f918fc73cd2ed5bf42740496e54120
+RepliesToOriginFolder=false
+UseSentFolder=true

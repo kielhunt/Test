@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.vladan.fr/"
+      },
+      "urls": [ "http://www.vladan.fr/" ]
+   },
+   "description": "VMware ESXi, VMware vSphere, Disaster recovery... how-to, tutorials, videos, homelab builds....",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmNsLETm8B5dfQxrjLPr0PNJnBqnTlvFy8FWR/JpZ9Eh9jvOFh9VI6RdG9DYydYN6MfZhJkj+VdpYijSKJWEgsu213ChhT+awVLeDt2P60Vdqx2PEUrzBaE4ssgu4CNOHe32SyxP6rIJ7nphbCNEg0oSgSWaSti5jra2HNZl6TuQIDAQAB",
+   "manifest_version": 2,
+   "name": "ESX Virtualization",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}

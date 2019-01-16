@@ -1,0 +1,125 @@
+[Version]
+Signature="$Windows NT$"
+Class=HIDClass
+ClassGUID={745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Provider=%Provider%
+DriverVer = 09/20/2017,9.1.26.724
+CatalogFile=TouchFilter.cat
+
+[DestinationDirs]
+DefaultDestDir = 12 ; DIRID_DRIVERS
+TouchFilter_Inst_CoInstaller_CopyFiles = 11
+
+[ControlFlags]
+; We don't want our device to be installable via the non-PnP hardware dialogs
+ExcludeFromSelect = *
+
+; Manufacturer Section
+; ---------------------------------------------------------
+[Manufacturer]
+%LogMeIn%=LogMeInMfg,NTx86,NTamd64
+
+; Devices Section
+; ---------------------------------------------------------
+[LogMeInMfg.NTx86]
+%hid_device_up:000d_u:0004.DeviceDesc%=TouchFilter_Inst, hid_device_up:000d_u:0004 
+%hid_device_up:000d_u:0002.DeviceDesc%=TouchFilter_Inst, hid_device_up:000d_u:0002 
+
+[LogMeInMfg.NTamd64]
+%hid_device_up:000d_u:0004.DeviceDesc%=TouchFilter_Inst, hid_device_up:000d_u:0004 
+%hid_device_up:000d_u:0002.DeviceDesc%=TouchFilter_Inst, hid_device_up:000d_u:0002 
+
+; Install Section
+; ---------------------------------------------------------
+[TouchFilter_Inst.NT]
+Include         = input.inf
+Needs           = HID_Raw_Inst.NT
+CopyFiles = TouchFilter_Inst_CopyFiles.NT
+
+[TouchFilter_Inst.NT.HW]
+Include         = input.inf
+Needs           = HID_Raw_Inst.NT.Hw
+AddReg = TouchFilter_Inst_HWAddReg.NT
+
+[TouchFilter_Inst_HWAddReg.NT]
+HKR,,"UpperFilters",0x00010000,"TouchFilter"
+
+[TouchFilter_Inst_CopyFiles.NT]
+TouchFilter.sys
+
+[TouchFilter_Inst.NT.Services]
+Include         = input.inf
+Needs           = HID_Raw_Inst.NT.Services
+AddService = TouchFilter, , TouchFilter_Service_Inst
+
+[TouchFilter_Service_Inst]
+DisplayName    = %TouchFilter.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\TouchFilter.sys
+
+; Source Media Section
+; ---------------------------------------------------------
+[SourceDisksNames]
+1 = %DiskName%
+
+[SourceDisksFiles]
+TouchFilter.sys = 1
+;
+
+
+;
+;--- TouchFilter_Inst WDF Coinstaller installation ------
+;
+
+[TouchFilter_Inst.NT.CoInstallers]
+AddReg=TouchFilter_Inst_CoInstaller_AddReg
+CopyFiles=TouchFilter_Inst_CoInstaller_CopyFiles
+
+[TouchFilter_Inst_CoInstaller_AddReg]
+;
+
+
+[TouchFilter_Inst_CoInstaller_CopyFiles]
+;
+
+
+[TouchFilter_Inst.NT.Wdf]
+KmdfService = TouchFilter, TouchFilter_wdfsect
+[TouchFilter_wdfsect]
+KmdfLibraryVersion = 1.15
+
+
+; Strings Section
+; ---------------------------------------------------------
+[Strings]
+; Provider names
+Provider = "LogMeIn, Inc."
+
+; Mfg names
+LogMeIn = "LogMeIn, Inc."
+
+; Service names
+TouchFilter.SvcDesc = "TouchFilter Service"
+
+; Media names
+DiskName = "TouchFilter Driver Disk"
+
+; HID device IDs
+hid_device_up:000d_u:0004.DeviceDesc = "HID-compliant touch screen (with filtering)"
+hid_device_up:000d_u:0002.DeviceDesc = "HID-compliant pen (with filtering)"
+
+; Standard defs
+SPSVCINST_TAGTOFRONT  = 0x00000001
+SPSVCINST_ASSOCSERVICE= 0x00000002
+SERVICE_KERNEL_DRIVER = 1
+SERVICE_BOOT_START    = 0
+SERVICE_SYSTEM_START  = 1
+SERVICE_AUTO_START    = 2
+SERVICE_ERROR_NORMAL  = 1
+SERVICE_ERROR_IGNORE  = 0
+REG_EXPAND_SZ         = 0x00020000
+REG_DWORD             = 0x00010001
+REG_SZ                = 0x00000000
+

@@ -1,0 +1,39 @@
+2018-12-17 11:20:39.299 - Info      - LogMeInIgnition:75 - Main -  - LogMeIn Client version: 1.3.4130 (Aug 17 2018 04:51:21)
+2018-12-17 11:20:39.511 - Info      - LogMeInIgnition:75 -  -  - Account Unknown - 00075 - 0x0000004C - The file "C:\Program Files (x86)\LogMeIn Ignition\LMIIgnition.exe" is signed and the signature was verified.
+2018-12-17 11:20:39.516 - Info      - LogMeInIgnition:75 -  -  - Account Unknown - 00075 - 0x0000004C - The file "C:\Program Files (x86)\LogMeIn Ignition\RACtrl.dll" is signed and the signature was verified.
+2018-12-17 11:20:39.535 - Info      - LogMeInIgnition:75 - main -  - LogMeIn Ignition started.
+2018-12-17 11:20:39.564 - Info      - LogMeInIgnition:75 - URL scheme -  - Register URL scheme with module Path: C:\Program Files (x86)\LogMeIn Ignition\LMIIgnition.exe
+2018-12-17 11:20:39.565 - Info      - LogMeInIgnition:75 - Main -  - LMIIgnition MAIN process is starting.
+2018-12-17 11:21:10.623 - Info      - LogMeInIgnition:75 - Main -  - LMIIgnition MAIN process is stopping.
+2018-12-17 14:02:34.224 - Info      - LogMeInIgnition:75 - Main -  - LogMeIn Client version: 1.3.4130 (Aug 17 2018 04:51:21)
+2018-12-17 14:02:34.448 - Info      - LogMeInIgnition:75 -  -  - Account Unknown - 00075 - 0x0000004C - The file "C:\Program Files (x86)\LogMeIn Ignition\LMIIgnition.exe" is signed and the signature was verified.
+2018-12-17 14:02:34.454 - Info      - LogMeInIgnition:75 -  -  - Account Unknown - 00075 - 0x0000004C - The file "C:\Program Files (x86)\LogMeIn Ignition\RACtrl.dll" is signed and the signature was verified.
+2018-12-17 14:02:34.474 - Info      - LogMeInIgnition:75 - main -  - LogMeIn Ignition started.
+2018-12-17 14:02:34.503 - Info      - LogMeInIgnition:75 - Main -  - LMIIgnition MAIN process is starting.
+2018-12-17 14:02:34.652 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:34.652 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:02:36.304 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:36.304 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:02:36.752 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:36.753 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:02:36.920 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:36.921 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:02:37.102 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:37.103 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:02:37.270 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:37.271 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:02:37.439 - Info      - LogMeInIgnition:75 - Test Proxy -  - HTTP send request failed. Error message: [There is no description for this error. (12007)]
+2018-12-17 14:02:37.439 - Info      - LogMeInIgnition:75 - Test Proxy -  - LoadURL failed. Error message: There is no description for this error. (12007)
+2018-12-17 14:03:56.848 - Info      - LogMeInIgnition:75 - Main -  - LMIIgnition MAIN process is stopping.
+2018-12-17 14:04:02.057 - Info      - LogMeInIgnition:74 - Main -  - LogMeIn Client version: 1.3.4130 (Aug 17 2018 04:51:21)
+2018-12-17 14:04:02.268 - Info      - LogMeInIgnition:74 -  -  - Account Unknown - 00074 - 0x0000004B - The file "C:\Program Files (x86)\LogMeIn Ignition\LMIIgnition.exe" is signed and the signature was verified.
+2018-12-17 14:04:02.273 - Info      - LogMeInIgnition:74 -  -  - Account Unknown - 00074 - 0x0000004B - The file "C:\Program Files (x86)\LogMeIn Ignition\RACtrl.dll" is signed and the signature was verified.
+2018-12-17 14:04:02.288 - Info      - LogMeInIgnition:74 - main -  - LogMeIn Ignition started.
+2018-12-17 14:04:02.315 - Info      - LogMeInIgnition:74 - Main -  - LMIIgnition MAIN process is starting.
+2018-12-17 14:04:08.333 - Info      - LogMeInIgnition:74 - Main -  - LMIIgnition MAIN process is stopping.
+2018-12-17 14:10:26.821 - Info      - LogMeInIgnition:74 - Main -  - LogMeIn Client version: 1.3.4130 (Aug 17 2018 04:51:21)
+2018-12-17 14:10:27.029 - Info      - LogMeInIgnition:74 -  -  - Account Unknown - 00074 - 0x0000004B - The file "C:\Program Files (x86)\LogMeIn Ignition\LMIIgnition.exe" is signed and the signature was verified.
+2018-12-17 14:10:27.034 - Info      - LogMeInIgnition:74 -  -  - Account Unknown - 00074 - 0x0000004B - The file "C:\Program Files (x86)\LogMeIn Ignition\RACtrl.dll" is signed and the signature was verified.
+2018-12-17 14:10:27.048 - Info      - LogMeInIgnition:74 - main -  - LogMeIn Ignition started.
+2018-12-17 14:10:27.077 - Info      - LogMeInIgnition:74 - Main -  - LMIIgnition MAIN process is starting.
+2018-12-17 14:10:36.446 - Info      - LogMeInIgnition:74 - Main -  - LMIIgnition MAIN process is stopping.

@@ -1,0 +1,5 @@
+2019-01-02 09:30:53.938 - Info      - LogMeIn - kjhubuntu-MacBo\kjhubuntu - 00031 - 0x00000020 - Logger - The NixSyslogWriter disabled
+2019-01-02 09:30:53.943 - Error     - LogMeIn - kjhubuntu-MacBo\kjhubuntu - 00031 - 0x00000020 - Logger - Can't initialize NixSyslogWriter
+2019-01-02 09:30:53.943 - Info      - LogMeIn - kjhubuntu-MacBo\kjhubuntu - 00031 - 0x00000020 - Logger -  ------------------- Start ------------------
+2019-01-02 09:30:53.943 - Info      - LogMeIn - kjhubuntu-MacBo\kjhubuntu - 00031 - 0x00000020 - Logger - Log level: 6. Logger using settings: 'Log'.
+2019-01-02 09:31:04.204 - Info      - LogMeIn - kjhubuntu-MacBo\kjhubuntu - 00031 - 0x00000020 - Logger -  ------------------- Stop -------------------

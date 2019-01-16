@@ -1,0 +1,4 @@
+QSGContext::initialize: depth buffer support missing, expect rendering errors
+QSGContext::initialize: stencil buffer support missing, expect rendering errors
+ICE default IO error handler doing an exit(), pid = 13569, errno = 11
+terminate called without an active exception

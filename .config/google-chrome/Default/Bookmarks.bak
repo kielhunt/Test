@@ -1,0 +1,179 @@
+{
+   "checksum": "91ae731047b7a0a00ea07272db7845b8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13185587406762727",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13186981566867887"
+            },
+            "name": "California Firearms Application Reporting System (CFARS)",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://cfars.doj.ca.gov/iiftRptTransx!displayIntraFamilial.do"
+         }, {
+            "date_added": "13185963054199517",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13189304629898202"
+            },
+            "name": "Take Aim at Rifle Reloading Data | Hodgdon Reloading",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "http://www.hodgdonreloading.com/data/rifle"
+         }, {
+            "date_added": "13185966143621091",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13189304579462214"
+            },
+            "name": "7.62x51mm NATO Load Data - Nosler",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://load-data.nosler.com/load-data/762x51mm-nato/"
+         }, {
+            "date_added": "12989562988086095",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13172426116675283"
+            },
+            "name": "Pandora Radio - Listen to Free Internet Radio, Find New Music",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://www.pandora.com/#!/stations/play/369526389144493366"
+         }, {
+            "date_added": "13069777249047000",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13186871782729572"
+            },
+            "name": "Trike Go Cart",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "http://www.sfdindustries.com/trike-builder/"
+         }, {
+            "date_added": "13121444216629397",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13189543850865258"
+            },
+            "name": "Autotask®",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://www.autotask.net/Mvc/Framework/Authentication.mvc/Authenticate"
+         }, {
+            "date_added": "13121444240575708",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13189557071758345"
+            },
+            "name": "Sign in to your account",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "https://login.microsoftonline.com/login.srf?wa=wsignin1.0&rpsnv=4&ct=1476970636&rver=6.7.6640.0&wp=MCMBI&wreply=https%3a%2f%2fportal.office.com%2flanding.aspx%3ftarget%3d%252fdefault.aspx&lc=1033&id=501392&msafed=0&client-request-id=e37aaa65-b02f-4dfd-ab1e-4561826495bb"
+         }, {
+            "date_added": "13128975749464674",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13189561544690889"
+            },
+            "name": "TimeClock Plus",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "https://phr1.tcplusondemand.com/app/webclock/#/EmployeeLogOn/540-000107/107"
+         }, {
+            "date_added": "13126908170218532",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13172127683510954"
+            },
+            "name": "JayBird X3 Wireless In-Ear Headphones Black 985-000850 - Best Buy",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.bestbuy.com/site/jaybird-x3-wireless-in-ear-headphones-blackout/5642500.p?skuId=5642500"
+         }, {
+            "date_added": "13127583034591901",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13182812753199415",
+               "last_visited_desktop": "13177837659298758"
+            },
+            "name": "Meraki Dashboard Login",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://account.meraki.com/secure/login/dashboard_login"
+         }, {
+            "date_added": "13141329964110408",
+            "id": "15",
+            "name": "Down Right Now?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "javascript:void(location.href='http://www.isitdownrightnow.com/downorjustme.php?url='+encodeURI(window.location.host));"
+         }, {
+            "date_added": "13152642376220374",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13185387795717973"
+            },
+            "name": "Audible.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.audible.com/"
+         }, {
+            "date_added": "13175471927218183",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13186968716836019"
+            },
+            "name": "Amazon.com : Vortex Optics Crossfire II 4-12x50 AO, Second Focal Plane Riflescope - Dead-Hold BDC Reticle (MOA) : Rifle Scopes : Sports & Outdoors",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.amazon.com/Vortex-Optics-Crossfire-4-12x50-Riflescope/dp/B00794LIEM/ref=sr_1_11?s=hunting-fishing&ie=UTF8&qid=1530997788&sr=1-11&keywords=rifle%2Bscope&refinements=p_n_feature_keywords_two_browse-bin%3A7045391011&th=1"
+         }, {
+            "date_added": "13186968260049268",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13186968260056229"
+            },
+            "name": "Amazon.com : Apex Horizon Discovery Optics Tactical Hunting Riflescope HD 5-25X50 SFIR DLTW FFP IR-MIL Riflescope Shooting Hunting Rifle Scope Illumination : Sports & Outdoors",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.amazon.com/dp/B07JNR9TDS/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B07JNR9TDS"
+         }, {
+            "date_added": "13186968690782480",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13186968951905124"
+            },
+            "name": "Amazon.com : Monstrum Tactical 6-24x50 Rifle Scope with First Focal Plane (FFP) Rangefinder Reticle and Adjustable Objective Lens (Flat Dark Earth) : Sports & Outdoors",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.amazon.com/Monstrum-Tactical-Rangefinder-Adjustable-Objective/dp/B06WW6WHLL/ref=pd_sbs_200_12?_encoding=UTF8&pd_rd_i=B06WW6WHLL&pd_rd_r=ef07df60-eab9-11e8-bf17-01182ac8a987&pd_rd_w=j0ZMu&pd_rd_wg=oOP6W&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=763ccc93-bfa2-47be-85ae-0cdd7e00b3da&pf_rd_r=RTEV8K4KTW3T0SZ3TEDN&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&refRID=RTEV8K4KTW3T0SZ3TEDN"
+         } ],
+         "date_added": "13189566288541827",
+         "date_modified": "13186968690782480",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13189566288541835",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "17",
+      "synced": {
+         "children": [  ],
+         "date_added": "13189566288541837",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

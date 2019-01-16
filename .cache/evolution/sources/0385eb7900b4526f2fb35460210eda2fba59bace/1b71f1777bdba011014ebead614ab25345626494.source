@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=0385eb7900b4526f2fb35460210eda2fba59bace
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=kielhunt1@gmail.com
+CredentialName=
+
+[Address Book]
+BackendName=google

@@ -1,0 +1,77 @@
+2019/01/08 17:33:12.194 13569 140082694680064 GX0   Logger started.
+2019/01/08 17:33:12.195 13569 140082694680064 GX0   Found 0 core dump files ...
+2019/01/08 17:33:12.197 13569 140082694680064 GX0   systemd: logind service available
+2019/01/08 17:33:12.199 13569 140082694680064 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/01/08 17:33:12.199 13569 140082694680064 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c1 user=gdm state=greeter active=0 reliable=1 infoId=1591159457] [path=/org/freedesktop/login1/session/c1 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: gdm [uid=122, gid=129 home=/var/lib/gdm3 gecos=Gnome Display Manager shell=/bin/false]] idle=1(1546996618206758) active=0 type=wayland class=greeter state=online timestamp=1546996302820526 service=gdm-launch-environment defaultCG= leader=929 audit=0 remote=0 rHost= rUser= killProc=0]
+2019/01/08 17:33:12.200 13569 140082694680064 GX0   LogindSessionInfo: New session LogindSessionInfo [id=2 user=kielhunt state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY=tty2 seat=seat0 display= vtnr=2 owner=[SysUser: kielhunt [uid=1000, gid=1000 home=/home/kielhunt gecos=kielhunt,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1546996317752067 service=gdm-password defaultCG= leader=1367 audit=2 remote=0 rHost= rUser= killProc=0]
+2019/01/08 17:33:12.202 13569 140082694680064 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2019/01/08 17:33:12.204 13569 140082694680064 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/01/08 17:33:12.205 13569 140082694680064 GX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/01/08 17:33:12.206 13569 140082694680064 GX0   SysSessionInfoManager: own session cache set to '450215437'
+2019/01/08 17:33:12.210 13569 140082694680064 GX0   Running on Qt 5.9.5
+2019/01/08 17:33:12.318 13569 140082694680064 GX0   Initialised XRandR extension 1.5 (base=89 error=147)
+2019/01/08 17:33:12.468 13569 140082694680064 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP-1 2560x1600@60Hz [0, 0, 2560, 1600] - 1
+2019/01/08 17:33:12.468 13569 140082694680064 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2019/01/08 17:33:12.468 13569 140082694680064 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2019/01/08 17:33:12.468 13569 140082694680064 GX0   Virtual Desktop [0, 0, 2560, 1600]
+2019/01/08 17:33:12.654 13569 140082694680064 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP-1 2560x1600@60Hz [0, 0, 2560, 1600] - 1
+2019/01/08 17:33:12.654 13569 140082694680064 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2019/01/08 17:33:12.654 13569 140082694680064 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2019/01/08 17:33:12.654 13569 140082694680064 GX0   Virtual Desktop [0, 0, 2560, 1600]
+2019/01/08 17:33:12.683 13569 140082694680064 GX0!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version (3399) is not matching with application version (14.1.3399), Errorcode=2
+2019/01/08 17:33:12.683 13569 140082694680064 GX0   Loaded language 'en', using locale 'en'
+2019/01/08 17:33:12.683 13569 140082694680064 GX0   InterProcessBase::SecureNetwork created
+2019/01/08 17:33:12.684 13569 140082694680064 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 456fcdbc-f242-4e5e-9715-87231795c836)
+2019/01/08 17:33:12.686 13569 140082694680064 GX0   AutoLogin::Login: enabled: 1
+2019/01/08 17:33:12.686 13569 140082694680064 GX0   AccountLoginStateMachine::Reset
+2019/01/08 17:33:12.687 13569 140082694680064 GX0!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded, Errorcode=2
+2019/01/08 17:33:12.695 13569 140081125455616 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2019/01/08 17:33:12.695 13569 140081125455616 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2019/01/08 17:33:12.695 13569 140082353653504 GX0   Local TCP connection established
+2019/01/08 17:33:12.783 13569 140082336868096 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2019/01/08 17:33:12.783 13569 140082353653504 GX0   Received Control_InitIPC_Response processtype=1
+2019/01/08 17:33:12.783 13569 140082353653504 GX0   Received Control_InitIPC_Response runningProcesses=3
+2019/01/08 17:33:12.783 13569 140082353653504 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+
+
+
+Start:              2019/01/08 17:33:12.784 (UTC-8:00)
+Version:            14.1.3399 
+ID:                 0
+Loglevel:           Info (100)
+License:            0
+Server:             master15.teamviewer.com
+IC:                 -2045033320
+CPU:                Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+CPU extensions:     e9
+OS:                 Lx Ubuntu 18.04.1 LT (x86_64)
+IP:                 10.1.70.175
+Proxy-Settings:     Type=0 IP= User=
+
+2019/01/08 17:33:15.251 13569 140082694680064 GX0   SystemID m=1 s=0 12cd201c0c2e4eeaa2e48de3514be7c4
+2019/01/08 17:33:15.258 13569 140082694680064 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1158200641 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/01/08 17:33:15.258 13569 140082694680064 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1158200641 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/01/08 17:33:15.258 13569 140082694680064 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1158200641 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/01/08 17:33:16.037 13569 140082353653504 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1158200641", TSUserID "1158200641", ServerID "1158200641"
+2019/01/08 17:33:16.037 13569 140082694680064 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2019/01/08 17:33:16.037 13569 140082328475392 GX0   ChatManager::ChatManager: created
+2019/01/08 17:33:16.037 13569 140082328475392 GX0   ChatManager::Factory: ChatManager created
+2019/01/08 17:33:16.037 13569 140082328475392 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2019/01/08 17:33:16.037 13569 140082328475392 GX0   IncomingCommandRegistration::Start: registering for ready state properties
+2019/01/08 17:33:16.038 13569 140082694680064 GX0   Initialised XFixes extension (base=87 error=140)
+2019/01/08 17:33:16.054 13569 140082694680064 GX0   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2019/01/08 17:33:17.616 13569 140082353653504 GX0   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2019/01/08 17:33:17.617 13569 140082353653504 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 1a1accc1-d32b-4f32-8009-839f46e2cad9)
+2019/01/08 17:33:17.618 13569 140082353653504 GX0   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/01/08 17:33:17.619 13569 140082353653504 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 5514bb7b-3557-421b-9c4b-5a4790f1e00e)
+2019/01/08 17:33:17.619 13569 140082328475392 GX0   Account::UpdateState: KA = 1, active = 1
+2019/01/08 17:33:17.621 13569 140082694680064 GX0   Account::SetLoginState: new state: 2
+2019/01/08 17:33:17.621 13569 140082694680064 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/01/08 17:33:17.621 13569 140082353653504 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 96904d12-6836-4b07-9619-33b47793e416)
+2019/01/08 17:33:17.621 13569 140082353653504 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1158200641 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/01/08 17:33:18.329 13569 140082345260800 GX0   IpcRouterClock: received router time: 20190109T013318.213905
+2019/01/08 17:34:24.490 13569 140082345260800 GX0   Received Control_TerminateProcess
+2019/01/08 17:34:24.509 13569 140082345260800 GX0   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/01/08 17:34:24.509 13569 140082345260800 GX0   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/01/08 17:34:24.509 13569 140082345260800 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 1a1accc1-d32b-4f32-8009-839f46e2cad9)
+2019/01/08 17:34:24.509 13569 140082345260800 GX0   AccountLoginStateMachine::RegisterForKeepAlive: lost connection

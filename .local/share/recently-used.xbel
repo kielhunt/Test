@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/kjhubuntu/Downloads/LogMeIn.msi" added="2018-12-17T17:58:39Z" modified="2018-12-17T18:55:22Z" visited="2018-12-17T17:58:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msi"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-12-17T18:55:22Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;wine start /unix %f&apos;" modified="2018-12-17T18:00:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kjhubuntu/Downloads/LogMeIn(1).msi" added="2018-12-17T18:54:38Z" modified="2018-12-17T18:54:38Z" visited="2018-12-17T18:54:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msi"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-12-17T18:54:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kjhubuntu/Downloads/LogMeIn(2).msi" added="2018-12-17T19:08:50Z" modified="2018-12-17T19:08:50Z" visited="2018-12-17T19:08:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msi"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-12-17T19:08:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_kjhubuntu0/google-chrome-stable_current_amd64.deb" added="2018-12-17T22:12:58Z" modified="2018-12-17T22:12:58Z" visited="2018-12-17T22:12:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-12-17T22:12:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kjhubuntu/.ssh/known_hosts" added="2018-12-17T22:54:10Z" modified="2018-12-17T22:54:10Z" visited="2018-12-17T22:54:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-12-17T22:54:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/log/bootstrap.log" added="2018-12-17T23:55:00Z" modified="2018-12-17T23:55:00Z" visited="2018-12-17T23:55:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-12-17T23:55:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kjhubuntu/Desktop/lab.txt" added="2018-12-17T23:58:02Z" modified="2018-12-17T23:58:03Z" visited="2018-12-17T23:58:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-12-17T23:58:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/HighContrast/48x48/apps/gnome-tweak-tool.png" added="2018-12-18T00:07:38Z" modified="2018-12-18T00:07:38Z" visited="2018-12-18T00:07:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-12-18T00:07:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/lib/app-info/icons/ubuntu-bionic-universe/64x64/unity-tweak-tool_unity-tweak-tool.png" added="2018-12-18T00:07:42Z" modified="2018-12-18T00:07:42Z" visited="2018-12-18T00:07:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-12-18T00:07:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2018-12-18T00:40:29Z" modified="2018-12-18T00:40:29Z" visited="2018-12-18T00:40:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-12-18T00:40:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kjhubuntu/Pictures/Screenshot%20from%202018-12-18%2013-07-22.png" added="2018-12-18T21:07:29Z" modified="2018-12-18T21:07:29Z" visited="2018-12-18T21:07:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-12-18T21:07:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kjhubuntu/Desktop/tryme/testfilekjh" added="2018-12-20T23:37:35Z" modified="2018-12-20T23:44:11Z" visited="2018-12-20T23:37:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-12-20T23:39:16Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_kjhubuntu0/swarm-master.zip" added="2019-01-02T18:21:33Z" modified="2019-01-02T18:21:33Z" visited="2019-01-02T18:21:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-02T18:21:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Dans_ma_bulle_by_Christophe_Weibel.jpg" added="2019-01-03T20:39:25Z" modified="2019-01-03T20:39:25Z" visited="2019-01-03T20:39:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:39:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Spring_by_Peter_Apas.jpg" added="2019-01-03T20:39:53Z" modified="2019-01-03T20:39:53Z" visited="2019-01-03T20:39:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:39:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Night_lights_by_Alberto_Salvia_Novella.jpg" added="2019-01-03T20:40:12Z" modified="2019-01-03T20:40:12Z" visited="2019-01-03T20:40:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Manhattan_Sunset_by_Giacomo_Ferroni.jpg" added="2019-01-03T20:40:18Z" modified="2019-01-03T20:40:18Z" visited="2019-01-03T20:40:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Flora_by_Marek_Koteluk.jpg" added="2019-01-03T20:40:24Z" modified="2019-01-03T20:40:24Z" visited="2019-01-03T20:40:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Beaver_Wallpaper_Grey_4096x2304.png" added="2019-01-03T20:40:28Z" modified="2019-01-03T20:40:28Z" visited="2019-01-03T20:40:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/160218-deux-two_by_Pierre_Cante.jpg" added="2019-01-03T20:40:33Z" modified="2019-01-03T20:40:33Z" visited="2019-01-03T20:40:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/clock_by_Bernhard_Hanakam.jpg" added="2019-01-03T20:40:43Z" modified="2019-01-03T20:40:43Z" visited="2019-01-03T20:40:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Halifax_Sunset_by_Vlad_Drobinin.jpg" added="2019-01-03T20:40:52Z" modified="2019-01-03T20:40:52Z" visited="2019-01-03T20:40:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2019-01-03T20:40:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="sftp://zkjh1012-ru.local/Users/runway/Desktop/Ubuntubackups" added="2019-01-05T20:43:32Z" modified="2019-01-05T20:43:32Z" visited="2019-01-05T20:43:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-disks" exec="&apos;gnome-disks %u&apos;" modified="2019-01-05T20:43:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_kielhunt0/teamviewer_14.1.3399_amd64.deb" added="2019-01-09T01:22:18Z" modified="2019-01-09T01:22:18Z" visited="2019-01-09T01:22:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-09T01:22:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kielhunt/Downloads/LogMeIn(1).msi" added="2019-01-09T01:25:39Z" modified="2019-01-09T01:25:39Z" visited="2019-01-09T01:25:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msi"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-09T01:25:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_kielhunt0/google-chrome-stable_current_amd64.deb" added="2019-01-09T02:42:12Z" modified="2019-01-09T02:42:12Z" visited="2019-01-09T02:42:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-09T02:42:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2019-01-09T03:08:01Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:08:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///bin" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cdrom" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///boot" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///dev" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///lib" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///lib64" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///proc" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///sbin" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///snap" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///sys" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var" added="2019-01-09T03:09:00Z" modified="2019-01-09T03:09:00Z" visited="2019-01-09T03:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-09T03:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kielhunt" added="2019-01-10T19:03:17Z" modified="2019-01-10T19:03:17Z" visited="2019-01-10T19:03:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;org.gnome.DejaDup %u&apos;" modified="2019-01-10T19:03:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kielhunt/typescript" added="2019-01-16T23:42:22Z" modified="2019-01-16T23:42:22Z" visited="2019-01-16T23:42:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-16T23:42:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,66 @@
+Hostname kjhubuntu-MacBookPro
+Localdir /
+Volume 1:
+    StartingPath   .  
+    EndingPath     home/kjhubuntu/.config/google-chrome/Default/Extensions/fahmaaghhglfmonjliepjlchgpgfmobi/1.396.0_0/_platform_specific/x86-64/MusicManager_x86_64.nexe 174
+    Hash SHA1 bd82a2693827358966d385b848a0f968b579967b
+Volume 2:
+    StartingPath   home/kjhubuntu/.config/google-chrome/Default/Extensions/fahmaaghhglfmonjliepjlchgpgfmobi/1.396.0_0/_platform_specific/x86-64/MusicManager_x86_64.nexe 175
+    EndingPath     "home/kjhubuntu/.config/google-chrome/Default/File\x20System/001/p/00/00000028"  
+    Hash SHA1 d5a8a1e8e58814efb3e74b19ee67b1597acaaa10
+Volume 3:
+    StartingPath   "home/kjhubuntu/.config/google-chrome/Default/File\x20System/001/p/00/00000029" 1
+    EndingPath     "home/kjhubuntu/.config/google-chrome/Default/Local\x20Extension\x20Settings/gighmmpiobklfepjocnamgkkbiglidom/000022.ldb" 27
+    Hash SHA1 6245dd82c2a46fb8bd5dcded571549ba9a5db2e4
+Volume 4:
+    StartingPath   "home/kjhubuntu/.config/google-chrome/Default/Local\x20Extension\x20Settings/gighmmpiobklfepjocnamgkkbiglidom/000022.ldb" 28
+    EndingPath     "home/kjhubuntu/.config/google-chrome/Default/Service\x20Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/bb4b7382-0386-43da-b4c1-26d373b09714/a8b0463c6b9f1480_1" 21
+    Hash SHA1 472402d87b81667c717497afcba9ef34cd8b16eb
+Volume 5:
+    StartingPath   "home/kjhubuntu/.config/google-chrome/Default/Service\x20Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/bb4b7382-0386-43da-b4c1-26d373b09714/a8b0463c6b9f1480_1" 22
+    EndingPath     "home/kjhubuntu/.wine/drive_c/Program\x20Files\x20(x86)/LogMeIn/template.rab" 75
+    Hash SHA1 8aa3a30ff216fd137efb1d264d7c9095d4cca32e
+Volume 6:
+    StartingPath   "home/kjhubuntu/.wine/drive_c/Program\x20Files\x20(x86)/LogMeIn/template.rab" 76
+    EndingPath     "home/kjhubuntu/.wine/drive_c/Program\x20Files\x20(x86)/LogMeIn/x86/ksu.dll" 4
+    Hash SHA1 5201455388f7928737ba7835e9220c2238b99c48
+Volume 7:
+    StartingPath   "home/kjhubuntu/.wine/drive_c/Program\x20Files\x20(x86)/LogMeIn/x86/ksu.dll" 5
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/Installer/5dc3.msi 113
+    Hash SHA1 075f26fe6fa0d1b39b1ac375449583ec69ae0f88
+Volume 8:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/Installer/5dc3.msi 114
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/Installer/904f.msi 75
+    Hash SHA1 eb1f8eba97f10897471ac7887eb9ced16267064c
+Volume 9:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/Installer/904f.msi 76
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/Installer/904f.msi 476
+    Hash SHA1 333b1ca386d89f9a7a73d2066ba6508b85baed7f
+Volume 10:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/Installer/904f.msi 477
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/Installer/9b7c.msi 161
+    Hash SHA1 029fa6c484c74e04a984d688f1f72a217b1f0bde
+Volume 11:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/Installer/9b7c.msi 162
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/Installer/c109.msi 230
+    Hash SHA1 2d047c49c1934cb5c969d5104e6fec470ba78736
+Volume 12:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/Installer/c109.msi 231
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/mono/mono-2.0/lib/mono/4.0/System.Core.dll 1
+    Hash SHA1 cd84c93aa145a1e6542f7c28e8de8f90ebe58530
+Volume 13:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/mono/mono-2.0/lib/mono/4.0/System.Core.dll 2
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/mono/mono-2.0/lib/mono/gac/System.Web.Extensions/1.0.61025.0__31bf3856ad364e35/System.Web.Extensions.dll 8
+    Hash SHA1 14ec99c767362827b4780fb58b6b1c8c575d10ce
+Volume 14:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/mono/mono-2.0/lib/mono/gac/System.Web.Extensions/1.0.61025.0__31bf3856ad364e35/System.Web.Extensions.dll 9
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/system32/gecko/2.21/wine_gecko/xul.dll 383
+    Hash SHA1 959c791582d7e4cad7b183d37d0fec94197761d3
+Volume 15:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/system32/gecko/2.21/wine_gecko/xul.dll 384
+    EndingPath     home/kjhubuntu/.wine/drive_c/windows/syswow64/gecko/2.21/wine_gecko/xul.dll 394
+    Hash SHA1 fb548909bab66339729b4f3e7c24c195e03bfa03
+Volume 16:
+    StartingPath   home/kjhubuntu/.wine/drive_c/windows/syswow64/gecko/2.21/wine_gecko/xul.dll 395
+    EndingPath     home/kjhubuntu/snap/vlc/current  
+    Hash SHA1 774e9bd6fcddf2ce1f1c543deaaa0aadc84750ae

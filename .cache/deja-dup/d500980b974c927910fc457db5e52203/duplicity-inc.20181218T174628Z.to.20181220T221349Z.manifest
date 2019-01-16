@@ -1,0 +1,6 @@
+Hostname kjhubuntu-MacBookPro
+Localdir /
+Volume 1:
+    StartingPath   home/kjhubuntu  
+    EndingPath     home/kjhubuntu/typescript  
+    Hash SHA1 2e5ac5806754093140ee4d46f2bd341972bc0719

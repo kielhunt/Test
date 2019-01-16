@@ -1,0 +1,6 @@
+2019-01-02 09:30:54.991 - Info      - LogMeInIgnition:74 - Main -  - LogMeIn Client version: 1.3.4130 (Aug 17 2018 04:51:21)
+2019-01-02 09:30:55.219 - Info      - LogMeInIgnition:74 -  -  - Account Unknown - 00074 - 0x0000004B - The file "C:\Program Files (x86)\LogMeIn Ignition\LMIIgnition.exe" is signed and the signature was verified.
+2019-01-02 09:30:55.224 - Info      - LogMeInIgnition:74 -  -  - Account Unknown - 00074 - 0x0000004B - The file "C:\Program Files (x86)\LogMeIn Ignition\RACtrl.dll" is signed and the signature was verified.
+2019-01-02 09:30:55.246 - Info      - LogMeInIgnition:74 - main -  - LogMeIn Ignition started.
+2019-01-02 09:30:55.272 - Info      - LogMeInIgnition:74 - Main -  - LMIIgnition MAIN process is starting.
+2019-01-02 09:31:19.503 - Info      - LogMeInIgnition:74 - Main -  - LMIIgnition MAIN process is stopping.

@@ -1,0 +1,30 @@
+
+
+-------session starts-------
+
+[12-18 17:46:41.21] INFO: MediaGallery: name=/home/kjhubuntu/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[12-18 17:46:41.23] INFO: MediaGallery: name=/home/kjhubuntu/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[12-18 17:46:41.23] INFO: MediaGallery: name=/home/kjhubuntu/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[12-18 17:46:41.25] INFO: Starts a quick scan on /home/kjhubuntu/Music
+[12-18 17:46:41.26] INFO: Iterating over dir / from source /home/kjhubuntu/Music
+[12-18 17:46:41.27] INFO: Starts a quick scan on /home/kjhubuntu/Pictures
+[12-18 17:46:41.28] INFO: Iterating over dir / from source /home/kjhubuntu/Pictures
+[12-18 17:46:41.29] INFO: Starts a quick scan on /home/kjhubuntu/Videos
+[12-18 17:46:41.29] INFO: Iterating over dir / from source /home/kjhubuntu/Videos
+[12-18 17:46:41.52] INFO: /home/kjhubuntu/Music does not contain music file
+[12-18 17:46:41.54] INFO: /home/kjhubuntu/Pictures does not contain music file
+[12-18 17:46:41.54] INFO: /home/kjhubuntu/Videos does not contain music file
+[12-18 17:46:41.58] INFO: Got the drag_and_drop directory
+[12-18 17:46:41.410] WARNING: Tier change detected
+[12-18 17:46:41.412] INFO: Fetched user settings from server.
+[12-18 17:46:41.420] INFO: chromeapp:E ready
+[12-18 17:46:41.440] INFO: lsUserAddedMusicSourceIds=null
+[12-18 17:46:41.441] INFO: lsLastTrackFailureLoggingTime=null
+[12-18 17:46:41.441] INFO: lsUserSelectedDownloadDirId=null
+[12-18 17:46:41.449] INFO: lsDefaultDownloadLocationId=null
+[12-18 17:46:41.450] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[12-18 17:46:41.450] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[12-18 17:46:42.377] INFO: lsAppActivated=false
+[12-18 17:46:42.378] INFO: lsDragAndDropActivated=false
+[12-18 17:46:42.378] INFO: Nacl version: 1.0.467.4929
+[12-18 17:46:42.380] INFO: lsAppActivated=false

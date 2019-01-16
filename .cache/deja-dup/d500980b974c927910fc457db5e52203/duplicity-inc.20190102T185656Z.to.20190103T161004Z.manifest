@@ -1,0 +1,10 @@
+Hostname kjhubuntu-MacBookPro
+Localdir /
+Volume 1:
+    StartingPath   home/kjhubuntu  
+    EndingPath     home/kjhubuntu/Downloads/LogMeIn.msi 275
+    Hash SHA1 4d01532d97cd86006b0ca248ac6cd4a492963ee1
+Volume 2:
+    StartingPath   home/kjhubuntu/Downloads/LogMeIn.msi 276
+    EndingPath     home/kjhubuntu/Downloads/LogMeIn.msi  
+    Hash SHA1 b649653f26e5409f3a9e425bf8533498893f0cf0
