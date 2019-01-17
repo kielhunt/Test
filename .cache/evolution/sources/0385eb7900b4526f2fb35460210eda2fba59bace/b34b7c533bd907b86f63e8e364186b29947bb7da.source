@@ -1,0 +1,25 @@
+[Data Source]
+DisplayName=kielhunt1's list
+Enabled=true
+Parent=0385eb7900b4526f2fb35460210eda2fba59bace
+
+[Task List]
+BackendName=gtasks
+Color=#becedd
+Selected=true
+
+[Resource]
+Identity=gtasks::MTQ2MDE5MjgyNzQ4MDcyNDIxNDY6MDow
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=kielhunt1@gmail.com
+CredentialName=
+
+[Alarms]
+IncludeMe=false
+LastNotified=

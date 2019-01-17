@@ -504,3 +504,40 @@ ifconfig
 ssh Pi@10.1.70.76
 ssh pi@10.1.70.76
 reboot
+history
+cd ~
+pico test.test
+git init
+sudo apt install git
+git init
+git add -A
+git status
+git commit -a -m "firstinit"
+git config --global user.name "Kiel Hunt"
+git config --global user.email "khunt@runway.com"
+git commit -a -m "firstinit"
+git remote add origin https://github.com/kielhunt/Test.git
+git push -u origin master
+git status
+git commit -a
+git push -u origin master
+ls
+cd /
+ls
+/home
+locate firefox
+locate test.test
+locate test
+find / -name "*test*"
+find / -name "*kiel*"
+sudo find / -name "*kiel*"
+su
+cd ..
+sudo su
+exit
+cd ..
+sudo su
+su
+sudo su
+cd ..
+cd ~
